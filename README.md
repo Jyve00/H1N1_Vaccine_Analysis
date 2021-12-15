@@ -47,7 +47,6 @@ Data columns (total 26 columns):
 dtypes: float64(18), object(8)
 memory usage: 5.5+ MB
  
- 
 Of the 26,000 respondents, 21% of them received the H1N1 vaccine.
  
 ![Graph of vaccination decision](visualizations/Unknown-6.jpg?raw=true)
