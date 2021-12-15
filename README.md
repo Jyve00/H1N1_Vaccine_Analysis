@@ -50,7 +50,7 @@ memory usage: 5.5+ MB
  
 Of the 26,000 respondents, 21% of them received the H1N1 vaccine.
  
-![Getting Started](images/Unknown-6.jpg)
+![Graph of vaccination decision](visualizations/Unknown-6.jpg?raw=true)
  
 ### Model
  
@@ -59,7 +59,7 @@ Using the dataset, we built a logistic regression pipeline that could predict wi
 Below is a confusion matrix of our final model, demonstrating the percentage-wise accuracy of the model. 
  
  
-![Getting Started](images/Unknown-5.jpg)
+![Confusion matrix of our prediction model](visualizations/Unknown-5.jpg?raw=true)
  
  ### Key Takeaways
 
@@ -71,7 +71,7 @@ Below is a confusion matrix of our final model, demonstrating the percentage-wis
 
 Below is the percentage-wise effect of the highest-correlated categories on the prediction model.
 
-![Getting Started](images/Unknown-9.jpg)
+![Most important factors in our model](visualizations/Unknown-9.jpg)
 
 ### Reccomendations
  
